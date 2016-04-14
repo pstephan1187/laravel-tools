@@ -41,6 +41,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Application Bootstrapping
 
+* Spark: https://spark.laravel.com/
 * Quick Admin: https://github.com/LaravelDaily/quickadmin
 * Hackathon Starter: https://github.com/unicodeveloper/laravel-hackathon-starter
 
