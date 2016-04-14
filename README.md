@@ -27,9 +27,17 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Flysystem (Not Laravel Specific): http://flysystem.thephpleague.com/
 * Flysystem Bridge: https://github.com/GrahamCampbell/Laravel-Flysystem
 
+### File Management
+
+* File to Model Association: https://github.com/spatie/laravel-medialibrary
+
 ### Views/Presentation
 
 * Markdown Parsing: https://github.com/GrahamCampbell/Laravel-Markdown
+
+### Debugging
+
+* Log Viewer: https://github.com/rap2hpoutre/laravel-log-viewer
 
 ### Application Bootstrapping
 
@@ -40,6 +48,9 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Google Analytics: https://github.com/spatie/laravel-analytics
 * HTML Minifier: https://github.com/GrahamCampbell/Laravel-HTMLMin
+* API Helper: https://github.com/dingo/api
+* Sitemap Generator: https://github.com/RoumenDamianoff/laravel-sitemap
+* Seed Generator: https://github.com/orangehill/iseed
 
 ## CMSes
 
