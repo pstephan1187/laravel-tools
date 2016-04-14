@@ -15,8 +15,26 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Users
 
 * Email Verification: https://github.com/edvinaskrucas/laravel-user-email-verification
+
+### Database/Models
+
 * Database Revisions: https://github.com/jarektkaczyk/revisionable
 * Database Revisions: https://github.com/VentureCraft/revisionable
+
+### Filesystems
+
+* Dropbox: https://github.com/GrahamCampbell/Laravel-Dropbox
+* Flysystem (Not Laravel Specific): http://flysystem.thephpleague.com/
+* Flysystem Bridge: https://github.com/GrahamCampbell/Laravel-Flysystem
+
+### Views/Presentation
+
+* Markdown Parsing: https://github.com/GrahamCampbell/Laravel-Markdown
+
+### Miscellaneous
+
+* Google Analytics: https://github.com/spatie/laravel-analytics
+* HTML Minifier: https://github.com/GrahamCampbell/Laravel-HTMLMin
 
 ## CMSes
 
