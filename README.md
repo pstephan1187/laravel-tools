@@ -31,6 +31,11 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Markdown Parsing: https://github.com/GrahamCampbell/Laravel-Markdown
 
+### Application Bootstrapping
+
+* Quick Admin: https://github.com/LaravelDaily/quickadmin
+* Hackathon Starter: https://github.com/unicodeveloper/laravel-hackathon-starter
+
 ### Miscellaneous
 
 * Google Analytics: https://github.com/spatie/laravel-analytics
