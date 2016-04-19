@@ -15,11 +15,28 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Users
 
 * Email Verification: https://github.com/edvinaskrucas/laravel-user-email-verification
+* Team Associations and Invites: https://github.com/mpociot/teamwork
+* Inviting: https://github.com/DraperStudio/Laravel-Inviteable
 
 ### Database/Models
 
 * Database Revisions: https://github.com/jarektkaczyk/revisionable
 * Database Revisions: https://github.com/VentureCraft/revisionable
+* Adding "Likes": https://github.com/DraperStudio/Laravel-Likeable
+* Adding "Friends": https://github.com/DraperStudio/Laravel-Friendable
+* Adding "Friends": https://github.com/hootlex/laravel-friendships
+* Automatic Hash IDs: https://github.com/DraperStudio/Eloquent-Hashid
+* Model Relationship Limits: https://github.com/DraperStudio/Laravel-Doorkeeper
+* Categories: https://github.com/DraperStudio/Laravel-Categorizable
+* Tags: https://github.com/DraperStudio/Laravel-Taggable
+* Collections: https://github.com/DraperStudio/Laravel-Collectable
+* Messages: https://github.com/DraperStudio/Laravel-Messageable
+* Comments: https://github.com/DraperStudio/Laravel-Commentable
+* Comments: https://github.com/RomainLanz/laravel-commentable
+* Reporting: https://github.com/DraperStudio/Laravel-Reportable
+* Addresses (Includes basic geolocation): https://github.com/DraperStudio/Laravel-Addressable
+* Questions & Answers (like laracasts forums or SO): https://github.com/DraperStudio/Laravel-Questionable
+* Rewards: https://github.com/DraperStudio/Laravel-Rewardable
 
 ### Filesystems
 
@@ -45,6 +62,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Quick Admin: https://github.com/LaravelDaily/quickadmin
 * Hackathon Starter: https://github.com/unicodeveloper/laravel-hackathon-starter
 
+### Social Networks
+
+* Sharing: https://github.com/DraperStudio/Laravel-Social-Share
+
 ### Miscellaneous
 
 * Google Analytics: https://github.com/spatie/laravel-analytics
@@ -52,6 +73,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * API Helper: https://github.com/dingo/api
 * Sitemap Generator: https://github.com/RoumenDamianoff/laravel-sitemap
 * Seed Generator: https://github.com/orangehill/iseed
+* File & DB Backup: https://docs.spatie.be/laravel-backup/
 
 ## CMSes
 
