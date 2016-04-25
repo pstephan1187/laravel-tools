@@ -74,6 +74,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Sitemap Generator: https://github.com/RoumenDamianoff/laravel-sitemap
 * Seed Generator: https://github.com/orangehill/iseed
 * File & DB Backup: https://docs.spatie.be/laravel-backup/
+* Multi-tenancy: https://github.com/hyn/multi-tenant
 
 ## CMSes
 
@@ -81,6 +82,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * PyroCMS: https://pyrocms.com/
 * OctoberCMS: https://octobercms.com/
 * Microweber CMS: https://microweber.com/
+* Quarx: https://github.com/YABhq/Quarx
 
 ### Static Sites
 
