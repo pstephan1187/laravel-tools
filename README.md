@@ -9,6 +9,12 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Matt Stauffer: https://mattstauffer.co/blog
 * Patrick Stephan: http://www.patrickstephan.me
+* Asked.io: https://asked.io
+* Freek Van der Herten: https://murze.be/
+
+## Notable Blog Posts
+
+* User Input Sanitation: https://asked.io/laravel-validaton--all-your-base-are-belong-to-us
 
 ## Packages
 
@@ -66,15 +72,26 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Sharing: https://github.com/DraperStudio/Laravel-Social-Share
 
+### APIs
+
+* API Helper: https://github.com/dingo/api
+* Fractal: http://fractal.thephpleague.com/
+* Laravel-Fractal: https://github.com/spatie/laravel-fractal
+
+### User Input
+
+* Data Sanitation: https://github.com/daylerees/sanitizer
+* HTML Sanitation: https://github.com/mewebstudio/Purifier
+
 ### Miscellaneous
 
 * Google Analytics: https://github.com/spatie/laravel-analytics
 * HTML Minifier: https://github.com/GrahamCampbell/Laravel-HTMLMin
-* API Helper: https://github.com/dingo/api
 * Sitemap Generator: https://github.com/RoumenDamianoff/laravel-sitemap
 * Seed Generator: https://github.com/orangehill/iseed
 * File & DB Backup: https://docs.spatie.be/laravel-backup/
 * Multi-tenancy: https://github.com/hyn/multi-tenant
+* Key-Value Store: https://github.com/spatie/valuestore
 
 ## CMSes
 
@@ -83,12 +100,19 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * OctoberCMS: https://octobercms.com/
 * Microweber CMS: https://microweber.com/
 * Quarx: https://github.com/YABhq/Quarx
+* AsgardCms: https://asgardcms.com/
+* TypiCMS: https://github.com/typicms/base
+* Coaster CMS: https://www.coastercms.org/
 
 ### Static Sites
 
 * Statamic: https://statamic.com/
 * Jigsaw: https://github.com/tightenco/jigsaw
 * Katana: http://themsaid.github.io/katana/
+
+### Blogging
+
+* Wardrobe: http://wardrobecms.com/
 
 ## Miscellaneous
 
