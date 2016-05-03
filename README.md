@@ -15,6 +15,8 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ## Notable Blog Posts
 
 * User Input Sanitation: https://asked.io/laravel-validaton--all-your-base-are-belong-to-us
+* Don't use Illuminate\Support in framework agnostic packages: http://mattallan.org/2016/dont-use-illuminate-support/
+* Getting started with PHP streams: http://mattallan.org/2015/getting-started-with-php-streams/
 
 ## Packages
 
@@ -113,6 +115,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Blogging
 
 * Wardrobe: http://wardrobecms.com/
+
+## Front End Tools
+
+* Material design components for Vue.js: http://josephuspaye.github.io/keen-ui/
 
 ## Miscellaneous
 
