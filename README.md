@@ -45,6 +45,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Addresses (Includes basic geolocation): https://github.com/DraperStudio/Laravel-Addressable
 * Questions & Answers (like laracasts forums or SO): https://github.com/DraperStudio/Laravel-Questionable
 * Rewards: https://github.com/DraperStudio/Laravel-Rewardable
+* Cascading SoftDeletes: https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
 
 ### Filesystems
 
@@ -69,6 +70,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Spark: https://spark.laravel.com/
 * Quick Admin: https://github.com/LaravelDaily/quickadmin
 * Hackathon Starter: https://github.com/unicodeveloper/laravel-hackathon-starter
+* Laravel Generator: http://labs.infyom.com/laravelgenerator/
 
 ### Social Networks
 
@@ -85,6 +87,15 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Data Sanitation: https://github.com/daylerees/sanitizer
 * HTML Sanitation: https://github.com/mewebstudio/Purifier
 
+### Localization
+
+* Middleware: https://github.com/BenConstable/laravel-localize-middleware
+* Artisan Language File Manager: https://github.com/themsaid/laravel-langman
+
+### Multi-Tenancy
+
+* Multi-tenancy: https://github.com/hyn/multi-tenant
+
 ### Miscellaneous
 
 * Google Analytics: https://github.com/spatie/laravel-analytics
@@ -92,8 +103,9 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Sitemap Generator: https://github.com/RoumenDamianoff/laravel-sitemap
 * Seed Generator: https://github.com/orangehill/iseed
 * File & DB Backup: https://docs.spatie.be/laravel-backup/
-* Multi-tenancy: https://github.com/hyn/multi-tenant
 * Key-Value Store: https://github.com/spatie/valuestore
+* Server Monitoring: https://github.com/ericmakesstuff/laravel-server-monitor
+* Project Installer: https://github.com/RachidLaasri/LaravelInstaller
 
 ## CMSes
 
