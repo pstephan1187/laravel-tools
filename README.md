@@ -66,6 +66,9 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Debugging
 
 * Log Viewer: https://github.com/rap2hpoutre/laravel-log-viewer
+* Query Viewer: https://github.com/fitztrev/query-tracer
+* DebugBar: https://github.com/barryvdh/laravel-debugbar
+* Clockwork: https://github.com/itsgoingd/clockwork
 
 ### Application Bootstrapping
 
