@@ -101,6 +101,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Multi-tenancy: https://github.com/hyn/multi-tenant
 
+### Websockets
+
+* https://github.com/Askedio/laravel-ratchet
+
 ### Miscellaneous
 
 * Google Analytics: https://github.com/spatie/laravel-analytics
