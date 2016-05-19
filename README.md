@@ -19,6 +19,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Getting started with PHP streams: http://mattallan.org/2015/getting-started-with-php-streams/
 * Setting up UUIDs in Laravel 5+: https://medium.com/@steveazz/setting-up-uuids-in-laravel-5-552412db2088
 * Acceptance Testing Laravel and Vue.js: https://dotdev.co/acceptance-testing-a-laravel-and-vue-js-application-4160b8e96156
+* Testing Controllers: http://www.developer.com/services/testing-controllers-in-laravel-with-the-service-container.html
 
 ## Packages
 
