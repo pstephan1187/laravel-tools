@@ -105,6 +105,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * https://github.com/Askedio/laravel-ratchet
 
+### Testing:
+
+* Orchestral: https://github.com/orchestral/testbench
+
 ### Miscellaneous
 
 * Google Analytics: https://github.com/spatie/laravel-analytics
