@@ -18,6 +18,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Don't use Illuminate\Support in framework agnostic packages: http://mattallan.org/2016/dont-use-illuminate-support/
 * Getting started with PHP streams: http://mattallan.org/2015/getting-started-with-php-streams/
 * Setting up UUIDs in Laravel 5+: https://medium.com/@steveazz/setting-up-uuids-in-laravel-5-552412db2088
+* Acceptance Testing Laravel and Vue.js: https://dotdev.co/acceptance-testing-a-laravel-and-vue-js-application-4160b8e96156
 
 ## Packages
 
