@@ -11,6 +11,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Patrick Stephan: http://www.patrickstephan.me
 * Asked.io: https://asked.io
 * Freek Van der Herten: https://murze.be/
+* http://themsaid.com
 
 ## Notable Blog Posts
 
@@ -21,6 +22,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Acceptance Testing Laravel and Vue.js: https://dotdev.co/acceptance-testing-a-laravel-and-vue-js-application-4160b8e96156
 * Testing Controllers: http://www.developer.com/services/testing-controllers-in-laravel-with-the-service-container.html
 * Overwriting View Composer Variables: https://medium.com/@gizburdt/overwriting-view-composer-variables-in-laravel-6cfd9a8bfd01#.4zs0kcmo7
+* Conditional Query Builder Instructions: http://themsaid.com/laravel-query-conditions-20160425/
 
 ## Packages
 
