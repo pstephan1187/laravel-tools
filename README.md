@@ -154,6 +154,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ## Front End Tools
 
 * Material design components for Vue.js: http://josephuspaye.github.io/keen-ui/
+* Multi-select component: http://monterail.github.io/vue-multiselect/
 
 ## Miscellaneous
 
