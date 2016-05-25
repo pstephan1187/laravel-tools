@@ -81,6 +81,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Quick Admin: https://github.com/LaravelDaily/quickadmin
 * Hackathon Starter: https://github.com/unicodeveloper/laravel-hackathon-starter
 * Laravel Generator: http://labs.infyom.com/laravelgenerator/
+* Laracogs: https://laracogs.com/
 
 ### Social Networks
 
