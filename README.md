@@ -130,6 +130,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Key-Value Store: https://github.com/spatie/valuestore
 * Server Monitoring: https://github.com/ericmakesstuff/laravel-server-monitor
 * Project Installer: https://github.com/RachidLaasri/LaravelInstaller
+* AWS SDK: https://github.com/aws/aws-sdk-php-laravel
 
 ## CMSes
 
