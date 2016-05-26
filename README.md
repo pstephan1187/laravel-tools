@@ -38,6 +38,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Database/Models
 
+* Model Validation: https://github.com/dwightwatson/validating
 * Database Revisions: https://github.com/jarektkaczyk/revisionable
 * Database Revisions: https://github.com/VentureCraft/revisionable
 * Adding "Likes": https://github.com/DraperStudio/Laravel-Likeable
