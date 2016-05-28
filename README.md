@@ -87,6 +87,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Hackathon Starter: https://github.com/unicodeveloper/laravel-hackathon-starter
 * Laravel Generator: http://labs.infyom.com/laravelgenerator/
 * Laracogs: https://laracogs.com/
+* Laravel Backpack: https://laravel-backpack.readme.io/docs
 
 ### Social Networks
 
