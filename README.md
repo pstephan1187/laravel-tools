@@ -132,6 +132,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Server Monitoring: https://github.com/ericmakesstuff/laravel-server-monitor
 * Project Installer: https://github.com/RachidLaasri/LaravelInstaller
 * AWS SDK: https://github.com/aws/aws-sdk-php-laravel
+* CDN: https://github.com/Vinelab/cdn
 
 ## CMSes
 
