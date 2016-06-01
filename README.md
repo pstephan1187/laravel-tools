@@ -154,6 +154,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Blogging
 
 * Wardrobe: http://wardrobecms.com/
+* Blogify: http://www.blogify.io/
 
 ## Front End Tools
 
