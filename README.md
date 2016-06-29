@@ -29,6 +29,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Conditional Query Builder Instructions: http://themsaid.com/laravel-query-conditions-20160425/
 * Overwriting View Composer Variables: https://medium.com/@gizburdt/overwriting-view-composer-variables-in-laravel-6cfd9a8bfd01#.4zs0kcmo7
 
+### Other Lists:
+
+* Awesome Laravel: https://github.com/chiraggude/awesome-laravel
+
 ## Packages
 
 ### Users
@@ -39,6 +43,8 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Database/Models
 
+* Eloquence: https://github.com/kirkbushell/eloquence
+* Sluggable: https://github.com/cviebrock/eloquent-sluggable
 * Model Validation: https://github.com/dwightwatson/validating
 * Database Revisions: https://github.com/jarektkaczyk/revisionable
 * Database Revisions: https://github.com/VentureCraft/revisionable
@@ -46,6 +52,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Adding "Friends": https://github.com/DraperStudio/Laravel-Friendable
 * Adding "Friends": https://github.com/hootlex/laravel-friendships
 * Automatic Hash IDs: https://github.com/DraperStudio/Eloquent-Hashid
+* Hash IDs: https://github.com/vinkla/hashids
 * UUIDs: https://github.com/webpatser/laravel-uuid
 * Model Relationship Limits: https://github.com/DraperStudio/Laravel-Doorkeeper
 * Categories: https://github.com/DraperStudio/Laravel-Categorizable
@@ -59,6 +66,11 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Questions & Answers (like laracasts forums or SO): https://github.com/DraperStudio/Laravel-Questionable
 * Rewards: https://github.com/DraperStudio/Laravel-Rewardable
 * Cascading SoftDeletes: https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
+
+### Images
+
+* Glide: https://github.com/spatie/laravel-glide
+* Intervention: https://github.com/Intervention/image
 
 ### Filesystems
 
@@ -83,7 +95,9 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Application Bootstrapping
 
+* Laravel 5 Boilerplate: https://github.com/rappasoft/laravel-5-boilerplate/wiki
 * Spark: https://spark.laravel.com/
+* EasyAdmin: https://github.com/laravelish/EasyAdmin
 * Quick Admin: https://github.com/LaravelDaily/quickadmin
 * Hackathon Starter: https://github.com/unicodeveloper/laravel-hackathon-starter
 * Laravel Generator: http://labs.infyom.com/laravelgenerator/
@@ -118,22 +132,42 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * https://github.com/Askedio/laravel-ratchet
 
-### Testing:
+### Testing
 
 * Orchestral: https://github.com/orchestral/testbench
 
+### Optimization
+
+* Minification: https://github.com/GrahamCampbell/Laravel-HTMLMin
+* CDN: https://github.com/Vinelab/cdn
+
 ### Miscellaneous
 
-* Google Analytics: https://github.com/spatie/laravel-analytics
-* HTML Minifier: https://github.com/GrahamCampbell/Laravel-HTMLMin
 * Sitemap Generator: https://github.com/RoumenDamianoff/laravel-sitemap
 * Seed Generator: https://github.com/orangehill/iseed
 * File & DB Backup: https://docs.spatie.be/laravel-backup/
 * Key-Value Store: https://github.com/spatie/valuestore
 * Server Monitoring: https://github.com/ericmakesstuff/laravel-server-monitor
 * Project Installer: https://github.com/RachidLaasri/LaravelInstaller
+* SEO Tools: https://github.com/artesaos/seotools
+* URL Signing: https://github.com/spatie/laravel-url-signer
+
+### 3rd Party APIs and SDKs
+
+* Twilio: https://github.com/aloha/laravel-twilio
+* Vimeo: https://github.com/vinkla/vimeo
+* Pushwoosh: https://github.com/hoymultimedia/Laravel-Pushwoosh
+* Pusher: https://github.com/vinkla/pusher
+* MailChimp: https://github.com/spatie/laravel-newsletter
+* Facebook: https://github.com/vinkla/facebook
+* Instagram: https://github.com/vinkla/instagram
+* Google Tag Manager: https://github.com/spatie/laravel-googletagmanager
+* Google Analytics: https://github.com/spatie/laravel-analytics
 * AWS SDK: https://github.com/aws/aws-sdk-php-laravel
-* CDN: https://github.com/Vinelab/cdn
+* Digital Ocean: https://github.com/GrahamCampbell/Laravel-DigitalOcean
+* Github: https://github.com/GrahamCampbell/Laravel-GitHub
+* GitLab: https://github.com/vinkla/gitlab
+* Algolia: https://github.com/vinkla/algolia
 
 ## CMSes
 
@@ -159,6 +193,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ## Front End Tools
 
+* Laroute: https://github.com/aaronlord/laroute
 * Material design components for Vue.js: http://josephuspaye.github.io/keen-ui/
 * Multi-select component: http://monterail.github.io/vue-multiselect/
 
