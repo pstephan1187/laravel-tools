@@ -11,7 +11,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Patrick Stephan: http://www.patrickstephan.me
 * Asked.io: https://asked.io
 * Freek Van der Herten: https://murze.be/
-* http://themsaid.com
+* Mohamed Said: http://themsaid.com
 
 ## Notable Blog Posts
 
