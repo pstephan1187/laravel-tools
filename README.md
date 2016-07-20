@@ -152,6 +152,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Project Installer: https://github.com/RachidLaasri/LaravelInstaller
 * SEO Tools: https://github.com/artesaos/seotools
 * URL Signing: https://github.com/spatie/laravel-url-signer
+* User Tracking/Analytics: https://github.com/antonioribeiro/tracker
 
 ### 3rd Party APIs and SDKs
 
