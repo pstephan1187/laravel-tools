@@ -66,6 +66,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Questions & Answers (like laracasts forums or SO): https://github.com/DraperStudio/Laravel-Questionable
 * Rewards: https://github.com/DraperStudio/Laravel-Rewardable
 * Cascading SoftDeletes: https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
+* Media/File Attachments: https://github.com/plank/laravel-mediable
 
 ### Images
 
