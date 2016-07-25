@@ -120,6 +120,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Data Sanitation: https://github.com/daylerees/sanitizer
 * HTML Sanitation: https://github.com/mewebstudio/Purifier
 * Location Validation and Extraction: https://github.com/gocanto/places-validation
+* Phone Number Validation: https://github.com/Propaganistas/Laravel-Phone
 
 ### Localization
 
