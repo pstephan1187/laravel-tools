@@ -158,6 +158,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### 3rd Party APIs and SDKs
 
 * Twilio: https://github.com/aloha/laravel-twilio
+* Slack: https://docs.spatie.be/laravel-slack-slash-command/v1/introduction
 * Vimeo: https://github.com/vinkla/vimeo
 * Pushwoosh: https://github.com/hoymultimedia/Laravel-Pushwoosh
 * Pusher: https://github.com/vinkla/pusher
