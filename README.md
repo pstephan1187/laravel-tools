@@ -173,6 +173,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Github: https://github.com/GrahamCampbell/Laravel-GitHub
 * GitLab: https://github.com/vinkla/gitlab
 * Algolia: https://github.com/vinkla/algolia
+* Wikipedia: https://github.com/unicodeveloper/laravel-wikipedia
 
 ## CMSes
 
