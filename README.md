@@ -8,6 +8,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ## Blogs:
 
 * Matt Stauffer: https://mattstauffer.co/blog
+* Adam Wathan: https://adamwathan.me
 * Patrick Stephan: http://www.patrickstephan.me
 * Asked.io: https://asked.io
 * Freek Van der Herten: https://murze.be/
