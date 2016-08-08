@@ -23,6 +23,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Acceptance Testing Laravel and Vue.js: https://dotdev.co/acceptance-testing-a-laravel-and-vue-js-application-4160b8e96156
 * Testing Controllers: http://www.developer.com/services/testing-controllers-in-laravel-with-the-service-container.html
 * Testing with Codeception: https://www.toptal.com/php/php-testing-with-codeception
+* Using named routes in Javascript: https://ideas.hexbridge.com/how-to-use-laravel-routes-in-javascript-4d9c484a0d97
 
 ## Quick Tips
 
