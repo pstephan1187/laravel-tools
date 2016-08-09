@@ -204,6 +204,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Laroute: https://github.com/aaronlord/laroute
 * Material design components for Vue.js: http://josephuspaye.github.io/keen-ui/
 * Multi-select component: http://monterail.github.io/vue-multiselect/
+* Input formatting: https://github.com/nosir/cleave.js
 
 ## Miscellaneous
 
