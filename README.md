@@ -145,6 +145,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Minification: https://github.com/GrahamCampbell/Laravel-HTMLMin
 * CDN: https://github.com/Vinelab/cdn
+* HTTP2 Server Push: https://github.com/JacobBennett/laravel-HTTP2ServerPush
 
 ### Miscellaneous
 
