@@ -24,6 +24,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Testing Controllers: http://www.developer.com/services/testing-controllers-in-laravel-with-the-service-container.html
 * Testing with Codeception: https://www.toptal.com/php/php-testing-with-codeception
 * Using named routes in Javascript: https://ideas.hexbridge.com/how-to-use-laravel-routes-in-javascript-4d9c484a0d97
+* Artisan Tinker: http://www.stillat.com/blog/2016/08/16/becoming-a-laravel-rock-star-with-artisan-tinker/
 
 ## Quick Tips
 
