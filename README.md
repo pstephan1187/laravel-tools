@@ -26,6 +26,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Using named routes in Javascript: https://ideas.hexbridge.com/how-to-use-laravel-routes-in-javascript-4d9c484a0d97
 * Artisan Tinker: http://www.stillat.com/blog/2016/08/16/becoming-a-laravel-rock-star-with-artisan-tinker/
 * Docker, Rancher, and Laravel: https://paypertrail.com/blog/tech/docker-rancher-and-laravel-easy-and-safe-scalability
+* Testing Resources: https://gist.github.com/adamwathan/fc5cbe7c0f5629245944
 
 ## Quick Tips
 
