@@ -43,9 +43,11 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Email Verification: https://github.com/edvinaskrucas/laravel-user-email-verification
 * Team Associations and Invites: https://github.com/mpociot/teamwork
 * Inviting: https://github.com/DraperStudio/Laravel-Inviteable
+* Auth/roles/social/etc: https://github.com/rinvex/fort
 
 ### Database/Models
 
+* Repositories: https://github.com/rinvex/repository
 * Eloquence: https://github.com/kirkbushell/eloquence
 * Sluggable: https://github.com/cviebrock/eloquent-sluggable
 * Model Validation: https://github.com/dwightwatson/validating
@@ -160,6 +162,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * URL Signing: https://github.com/spatie/laravel-url-signer
 * User Tracking/Analytics: https://github.com/antonioribeiro/tracker
 * Collection Macros: https://murze.be/2016/08/handy-collection-macros/
+* Country Data: https://github.com/rinvex/country
 
 ### 3rd Party APIs and SDKs
 
