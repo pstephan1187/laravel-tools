@@ -165,6 +165,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * User Tracking/Analytics: https://github.com/antonioribeiro/tracker
 * Collection Macros: https://murze.be/2016/08/handy-collection-macros/
 * Country Data: https://github.com/rinvex/country
+* Simple Regex: https://simple-regex.com/
 
 ### 3rd Party APIs and SDKs
 
