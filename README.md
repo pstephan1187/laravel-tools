@@ -141,6 +141,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Websockets
 
 * https://github.com/Askedio/laravel-ratchet
+* https://github.com/tlaverdure/laravel-echo-server/
 
 ### Testing
 
