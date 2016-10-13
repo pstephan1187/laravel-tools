@@ -104,6 +104,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Application Bootstrapping
 
 * Laravel 5 Boilerplate: https://github.com/rappasoft/laravel-5-boilerplate/wiki
+* Admin Architect: http://adminarchitect.com/
 * Spark: https://spark.laravel.com/
 * EasyAdmin: https://github.com/laravelish/EasyAdmin
 * Quick Admin: https://github.com/LaravelDaily/quickadmin
