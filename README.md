@@ -217,6 +217,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Multi-select component: http://monterail.github.io/vue-multiselect/
 * Input formatting: https://github.com/nosir/cleave.js
 * Vue Smart Table: https://github.com/gurghet/vue-smart-table/
+* Chart Generation: https://github.com/ConsoleTVs/Charts
 
 ## Miscellaneous
 
