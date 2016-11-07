@@ -190,7 +190,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Algolia: https://github.com/vinkla/algolia
 * Wikipedia: https://github.com/unicodeveloper/laravel-wikipedia
 
-## CMSes
+## CMSes/CRMs
 
 ### Database Driven
 * PyroCMS: https://pyrocms.com/
@@ -200,6 +200,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * AsgardCms: https://asgardcms.com/
 * TypiCMS: https://github.com/typicms/base
 * Coaster CMS: https://www.coastercms.org/
+* Flarepoint CRM: https://github.com/Bottelet/Flarepoint-crm
 
 ### Static Sites
 
