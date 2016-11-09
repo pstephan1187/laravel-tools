@@ -201,6 +201,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * TypiCMS: https://github.com/typicms/base
 * Coaster CMS: https://www.coastercms.org/
 * Flarepoint CRM: https://github.com/Bottelet/Flarepoint-crm
+* Ribbbon Project Management System: http://ribbbon.com/
 
 ### Static Sites
 
