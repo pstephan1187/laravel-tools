@@ -27,6 +27,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Artisan Tinker: http://www.stillat.com/blog/2016/08/16/becoming-a-laravel-rock-star-with-artisan-tinker/
 * Docker, Rancher, and Laravel: https://paypertrail.com/blog/tech/docker-rancher-and-laravel-easy-and-safe-scalability
 * Testing Resources: https://gist.github.com/adamwathan/fc5cbe7c0f5629245944
+* List of all Laravel Events: https://www.mettle.io/blog/post/complete-list-of-laravel-5-events/
 
 ## Quick Tips
 
