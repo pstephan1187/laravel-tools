@@ -28,6 +28,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Docker, Rancher, and Laravel: https://paypertrail.com/blog/tech/docker-rancher-and-laravel-easy-and-safe-scalability
 * Testing Resources: https://gist.github.com/adamwathan/fc5cbe7c0f5629245944
 * List of all Laravel Events: https://www.mettle.io/blog/post/complete-list-of-laravel-5-events/
+* Service Provider Examples: https://barryvanveen.nl/blog/34-laravel-service-provider-examples
 
 ## Quick Tips
 
@@ -76,6 +77,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Rewards: https://github.com/DraperStudio/Laravel-Rewardable
 * Cascading SoftDeletes: https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
 * Media/File Attachments: https://github.com/plank/laravel-mediable
+* Userstamps: https://github.com/WildSideUK/Laravel-Userstamps
 
 ### Images
 
