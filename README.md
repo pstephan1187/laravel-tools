@@ -192,6 +192,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * GitLab: https://github.com/vinkla/gitlab
 * Algolia: https://github.com/vinkla/algolia
 * Wikipedia: https://github.com/unicodeveloper/laravel-wikipedia
+* Unofficial Forge API: https://github.com/mpociot/blacksmith
 
 ## CMSes/CRMs
 
