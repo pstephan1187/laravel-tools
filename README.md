@@ -29,6 +29,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Testing Resources: https://gist.github.com/adamwathan/fc5cbe7c0f5629245944
 * List of all Laravel Events: https://www.mettle.io/blog/post/complete-list-of-laravel-5-events/
 * Service Provider Examples: https://barryvanveen.nl/blog/34-laravel-service-provider-examples
+* Demystifying Laravel 5 Custom Auth: http://snipe.net/2016/11/demystifying-custom-auth-in-laravel-5/
 
 ## Quick Tips
 
