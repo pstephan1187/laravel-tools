@@ -72,6 +72,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Messages: https://github.com/DraperStudio/Laravel-Messageable
 * Comments: https://github.com/DraperStudio/Laravel-Commentable
 * Comments: https://github.com/RomainLanz/laravel-commentable
+* Comments: https://laravelista.com/packages/comments
 * Reporting: https://github.com/DraperStudio/Laravel-Reportable
 * Addresses (Includes basic geolocation): https://github.com/DraperStudio/Laravel-Addressable
 * Questions & Answers (like laracasts forums or SO): https://github.com/DraperStudio/Laravel-Questionable
