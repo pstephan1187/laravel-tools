@@ -30,6 +30,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * List of all Laravel Events: https://www.mettle.io/blog/post/complete-list-of-laravel-5-events/
 * Service Provider Examples: https://barryvanveen.nl/blog/34-laravel-service-provider-examples
 * Demystifying Laravel 5 Custom Auth: http://snipe.net/2016/11/demystifying-custom-auth-in-laravel-5/
+* Sharing Sessions Across Domains: https://medium.com/@alberto1el/share-laravel-5-3-session-across-domains-for-the-same-application-232312b03177#.kvq7jhbln
 
 ## Quick Tips
 
