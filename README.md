@@ -198,6 +198,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Wikipedia: https://github.com/unicodeveloper/laravel-wikipedia
 * Unofficial Forge API: https://github.com/mpociot/blacksmith
 
+### Not Laravel Specific but Cool Nonetheless
+
+* 3D Box Packing: https://github.com/dvdoug/BoxPacker
+
 ## CMSes/CRMs
 
 ### Database Driven
