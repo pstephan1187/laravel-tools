@@ -177,6 +177,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Country Data: https://github.com/rinvex/country
 * Simple Regex: https://simple-regex.com/
 * Chat Bot: https://github.com/mpociot/botman
+* Alerts: https://github.com/vinkla/laravel-alert
 
 ### 3rd Party APIs and SDKs
 
