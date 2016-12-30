@@ -226,6 +226,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Wardrobe: http://wardrobecms.com/
 * Blogify: http://www.blogify.io/
+* Canvas: http://canvas.toddaustin.io/
 
 ## Front End Tools
 
