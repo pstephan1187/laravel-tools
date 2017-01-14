@@ -178,6 +178,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Simple Regex: https://simple-regex.com/
 * Chat Bot: https://github.com/mpociot/botman
 * Alerts: https://github.com/vinkla/laravel-alert
+* In-App Messaging: https://github.com/akiyamaSM/messager
 
 ### 3rd Party APIs and SDKs
 
@@ -198,6 +199,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Algolia: https://github.com/vinkla/algolia
 * Wikipedia: https://github.com/unicodeveloper/laravel-wikipedia
 * Unofficial Forge API: https://github.com/mpociot/blacksmith
+* Twitter Streaming: https://github.com/spatie/laravel-twitter-streaming-api
 
 ### Not Laravel Specific but Cool Nonetheless
 
