@@ -81,6 +81,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Cascading SoftDeletes: https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
 * Media/File Attachments: https://github.com/plank/laravel-mediable
 * Userstamps: https://github.com/WildSideUK/Laravel-Userstamps
+* Metable: https://github.com/plank/laravel-metable
 
 ### Images
 
