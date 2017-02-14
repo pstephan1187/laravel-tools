@@ -165,6 +165,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * CDN: https://github.com/Vinelab/cdn
 * HTTP2 Server Push: https://github.com/JacobBennett/laravel-HTTP2ServerPush
 
+### Terminal
+
+* Prevent Command Overlap: https://github.com/dmitry-ivanov/laravel-console-mutex
+
 ### Miscellaneous
 
 * Sitemap Generator: https://github.com/RoumenDamianoff/laravel-sitemap
