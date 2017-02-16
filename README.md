@@ -246,6 +246,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Vue Smart Table: https://github.com/gurghet/vue-smart-table/
 * Chart Generation: https://github.com/ConsoleTVs/Charts
 * Demoing Vue Components: https://github.com/vue-play/vue-play-cli
+* Loading Vue Files With ES5: https://github.com/FranckFreiburger/http-vue-loader
 
 ## Miscellaneous
 
