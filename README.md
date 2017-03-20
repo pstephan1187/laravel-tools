@@ -216,6 +216,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ## CMSes/CRMs
 
 ### Database Driven
+* Decoy: https://github.com/BKWLD/decoy
 * PyroCMS: https://pyrocms.com/
 * OctoberCMS: https://octobercms.com/
 * Microweber CMS: https://microweber.com/
@@ -225,6 +226,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Coaster CMS: https://www.coastercms.org/
 * Flarepoint CRM: https://github.com/Bottelet/Flarepoint-crm
 * Ribbbon Project Management System: http://ribbbon.com/
+* Atlantis CMS: http://www.atlantis-cms.com/
 
 ### Static Sites
 
