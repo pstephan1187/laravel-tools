@@ -53,6 +53,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Roles and Permissions: http://laratrust.readthedocs.io/en/3.0/
 * Bouncer ACL: https://github.com/JosephSilber/bouncer
 * Impersonation: https://github.com/404labfr/laravel-impersonate
+* Ban: https://github.com/cybercog/laravel-ban
 
 ### Database/Models
 
