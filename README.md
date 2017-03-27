@@ -188,6 +188,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Chat Bot: https://github.com/mpociot/botman
 * Alerts: https://github.com/vinkla/laravel-alert
 * In-App Messaging: https://github.com/akiyamaSM/messager
+* Database Snapshots: https://murze.be/2017/03/laravel-package-quickly-dump-load-database/
 
 ### 3rd Party APIs and SDKs
 
