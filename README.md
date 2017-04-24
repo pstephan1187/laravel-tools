@@ -260,6 +260,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Demoing Vue Components: https://github.com/vue-play/vue-play-cli
 * Loading Vue Files With ES5: https://github.com/FranckFreiburger/http-vue-loader
 
+### Frameworks
+
+* Vuetify (VueJS Material Design): https://vuetifyjs.com/
+
 ## Miscellaneous
 
 * Cheatsheet: http://learninglaravel.net/cheatsheet/#
