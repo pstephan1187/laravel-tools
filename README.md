@@ -215,6 +215,11 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Not Laravel Specific but Cool Nonetheless
 
 * 3D Box Packing: https://github.com/dvdoug/BoxPacker
+* Documentation Generator: http://daux.io/
+* URL Parser/Manipulator: https://github.com/jwage/purl
+* Math: https://github.com/markrogoyski/math-php
+* Chat Bot: https://github.com/mpociot/botman
+* Country Data: https://github.com/rinvex/country
 
 ## CMSes/CRMs
 
