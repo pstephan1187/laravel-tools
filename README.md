@@ -219,6 +219,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ## CMSes/CRMs
 
 ### Database Driven
+* Laralum: https://laralum.com/
 * Decoy: https://github.com/BKWLD/decoy
 * PyroCMS: https://pyrocms.com/
 * OctoberCMS: https://octobercms.com/
