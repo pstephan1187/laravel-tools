@@ -259,6 +259,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Chart Generation: https://github.com/ConsoleTVs/Charts
 * Demoing Vue Components: https://github.com/vue-play/vue-play-cli
 * Loading Vue Files With ES5: https://github.com/FranckFreiburger/http-vue-loader
+* Slate WYSIWYG Framework: http://slatejs.org/
 
 ### Frameworks
 
