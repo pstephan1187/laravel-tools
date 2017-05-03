@@ -252,14 +252,19 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ## Front End Tools
 
 * Laroute: https://github.com/aaronlord/laroute
+* Input formatting: https://github.com/nosir/cleave.js
+* Chart Generation: https://github.com/ConsoleTVs/Charts
+* Slate WYSIWYG Framework: http://slatejs.org/
+
+### Vue.js Tools
+
+* Unit Testing: https://github.com/wrseward/vue-unit
 * Material design components for Vue.js: http://josephuspaye.github.io/keen-ui/
 * Multi-select component: http://monterail.github.io/vue-multiselect/
-* Input formatting: https://github.com/nosir/cleave.js
 * Vue Smart Table: https://github.com/gurghet/vue-smart-table/
-* Chart Generation: https://github.com/ConsoleTVs/Charts
 * Demoing Vue Components: https://github.com/vue-play/vue-play-cli
 * Loading Vue Files With ES5: https://github.com/FranckFreiburger/http-vue-loader
-* Slate WYSIWYG Framework: http://slatejs.org/
+* Particle Backgrounds: https://github.com/creotip/vue-particles
 
 ### Frameworks
 
