@@ -260,11 +260,14 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Unit Testing: https://github.com/wrseward/vue-unit
 * Material design components for Vue.js: http://josephuspaye.github.io/keen-ui/
+* iView UI: https://www.iviewui.com
 * Multi-select component: http://monterail.github.io/vue-multiselect/
 * Vue Smart Table: https://github.com/gurghet/vue-smart-table/
 * Demoing Vue Components: https://github.com/vue-play/vue-play-cli
 * Loading Vue Files With ES5: https://github.com/FranckFreiburger/http-vue-loader
 * Particle Backgrounds: https://github.com/creotip/vue-particles
+* Uploader: https://github.com/websanova/vue-upload
+* Magical Layouts: https://github.com/David-Desmaisons/Vue.Isotope
 
 ### Frameworks
 
