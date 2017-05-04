@@ -255,6 +255,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Input formatting: https://github.com/nosir/cleave.js
 * Chart Generation: https://github.com/ConsoleTVs/Charts
 * Slate WYSIWYG Framework: http://slatejs.org/
+* Javascript Highlighter: https://markjs.io/
 
 ### Vue.js Tools
 
