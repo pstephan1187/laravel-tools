@@ -256,6 +256,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Chart Generation: https://github.com/ConsoleTVs/Charts
 * Slate WYSIWYG Framework: http://slatejs.org/
 * Javascript Highlighter: https://markjs.io/
+* Binding Keyboard Shortcuts: https://craig.is/killing/mice
 
 ### Vue.js Tools
 
