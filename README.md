@@ -270,6 +270,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Particle Backgrounds: https://github.com/creotip/vue-particles
 * Uploader: https://github.com/websanova/vue-upload
 * Magical Layouts: https://github.com/David-Desmaisons/Vue.Isotope
+* Portal: https://linusborg.github.io/portal-vue/#/
 
 ### Frameworks
 
