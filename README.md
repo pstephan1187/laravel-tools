@@ -190,6 +190,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Alerts: https://github.com/vinkla/laravel-alert
 * In-App Messaging: https://github.com/akiyamaSM/messager
 * Database Snapshots: https://murze.be/2017/03/laravel-package-quickly-dump-load-database/
+* Laravel Modules: https://github.com/caffeinated/modules/wiki
 
 ### 3rd Party APIs and SDKs
 
