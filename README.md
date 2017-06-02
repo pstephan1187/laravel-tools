@@ -161,6 +161,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Testing
 
 * Orchestral: https://github.com/orchestral/testbench
+* Mailthief: https://github.com/tightenco/mailthief
 
 ### Optimization
 
