@@ -126,7 +126,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Laravel Generator: http://labs.infyom.com/laravelgenerator/
 * Laracogs: https://laracogs.com/
 * Laravel Backpack: https://laravel-backpack.readme.io/docs
-* Voyager: https://the-control-group.github.io/voyager/
+* Voyager: https://laravelvoyager.com/
 
 ### Social Networks
 
