@@ -13,6 +13,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Asked.io: https://asked.io
 * Freek Van der Herten: https://murze.be/
 * Mohamed Said: http://themsaid.com
+* Diving Laravel: https://divinglaravel.com/
 
 ## Notable Blog Posts
 
