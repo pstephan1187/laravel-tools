@@ -261,6 +261,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Slate WYSIWYG Framework: http://slatejs.org/
 * Javascript Highlighter: https://markjs.io/
 * Binding Keyboard Shortcuts: https://craig.is/killing/mice
+* JS implementation of collections: https://github.com/ecrmnn/collect.js
 
 ### Vue.js Tools
 
