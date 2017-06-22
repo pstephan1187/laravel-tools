@@ -174,6 +174,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Prevent Command Overlap: https://github.com/dmitry-ivanov/laravel-console-mutex
 * Outputting to command line: https://statamic.com/blog/partyline
+* Terminal Apps: https://github.com/nunomaduro/laravel-zero
 
 ### Miscellaneous
 
