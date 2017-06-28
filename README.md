@@ -5,6 +5,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Laracasts: https://laracasts.com/
 
+## Other Lists
+
+* Open source Laravel projects: https://github.com/goodnesskay/Laravel-Open-Source-Projects
+
 ## Blogs:
 
 * Matt Stauffer: https://mattstauffer.co/blog
