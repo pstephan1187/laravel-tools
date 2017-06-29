@@ -282,6 +282,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Uploader: https://github.com/websanova/vue-upload
 * Magical Layouts: https://github.com/David-Desmaisons/Vue.Isotope
 * Portal: https://linusborg.github.io/portal-vue/#/
+* Style Guide: https://github.com/vue-styleguidist/vue-styleguidist
 
 ### Frameworks
 
