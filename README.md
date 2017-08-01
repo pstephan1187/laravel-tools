@@ -247,6 +247,9 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Ribbbon Project Management System: http://ribbbon.com/
 * Atlantis CMS: http://www.atlantis-cms.com/
 
+### As A Package
+* Orchid Platform: https://github.com/TheOrchid/Platform
+
 ### Static Sites
 
 * Statamic: https://statamic.com/
