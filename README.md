@@ -267,10 +267,14 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Laroute: https://github.com/aaronlord/laroute
 * Input formatting: https://github.com/nosir/cleave.js
 * Chart Generation: https://github.com/ConsoleTVs/Charts
-* Slate WYSIWYG Framework: http://slatejs.org/
 * Javascript Highlighter: https://markjs.io/
 * Binding Keyboard Shortcuts: https://craig.is/killing/mice
 * JS implementation of collections: https://github.com/ecrmnn/collect.js
+
+### WYSIWYG
+
+* ProseMirror: http://prosemirror.net/
+* Slate WYSIWYG Framework: http://slatejs.org/
 
 ### Vue.js Tools
 
