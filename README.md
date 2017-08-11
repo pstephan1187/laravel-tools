@@ -266,10 +266,14 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Laroute: https://github.com/aaronlord/laroute
 * Input formatting: https://github.com/nosir/cleave.js
-* Chart Generation: https://github.com/ConsoleTVs/Charts
 * Javascript Highlighter: https://markjs.io/
 * Binding Keyboard Shortcuts: https://craig.is/killing/mice
 * JS implementation of collections: https://github.com/ecrmnn/collect.js
+
+### Charting
+
+* Britecharts: http://eventbrite.github.io/britecharts/
+* Chart Generation: https://github.com/ConsoleTVs/Charts
 
 ### WYSIWYG
 
