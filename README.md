@@ -141,6 +141,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * API Helper: https://github.com/dingo/api
 * Fractal: http://fractal.thephpleague.com/
 * Laravel-Fractal: https://github.com/spatie/laravel-fractal
+* Repsonder (Fractal wrapper): https://github.com/flugger/laravel-responder
 
 ### User Input
 
