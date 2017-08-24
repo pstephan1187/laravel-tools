@@ -169,6 +169,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Orchestral: https://github.com/orchestral/testbench
 * Mailthief: https://github.com/tightenco/mailthief
 * Parallel Unit Tests: https://github.com/brianium/paratest
+* Factory Stories (advanced model factories): https://github.com/jeffochoa/factory-stories
 
 ### Optimization
 
