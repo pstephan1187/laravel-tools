@@ -271,6 +271,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Javascript Highlighter: https://markjs.io/
 * Binding Keyboard Shortcuts: https://craig.is/killing/mice
 * JS implementation of collections: https://github.com/ecrmnn/collect.js
+* API Testing: https://reqres.in/
 
 ### Charting
 
