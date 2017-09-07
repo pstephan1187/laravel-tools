@@ -121,6 +121,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Application Bootstrapping
 
+* Laravel Code Generator: https://github.com/CrestApps/laravel-code-generator
 * Laravel 5 Boilerplate: https://github.com/rappasoft/laravel-5-boilerplate/wiki
 * Admin Architect: http://adminarchitect.com/
 * Spark: https://spark.laravel.com/
