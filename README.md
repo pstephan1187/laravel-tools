@@ -159,6 +159,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Multi-Tenancy
 
 * Multi-tenancy: https://github.com/hyn/multi-tenant
+* Laravel Tenancy: https://laravel-tenancy.com/documentation
 
 ### Websockets
 
