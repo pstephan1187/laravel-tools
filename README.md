@@ -110,6 +110,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Views/Presentation
 
 * Markdown Parsing: https://github.com/GrahamCampbell/Laravel-Markdown
+* Theme/Asset Management: https://github.com/Shipu/themevel
 
 ### Debugging
 
