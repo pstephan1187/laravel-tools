@@ -144,6 +144,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Fractal: http://fractal.thephpleague.com/
 * Laravel-Fractal: https://github.com/spatie/laravel-fractal
 * Repsonder (Fractal wrapper): https://github.com/flugger/laravel-responder
+* Webhook Protection: https://github.com/clarkeash/shield
 
 ### User Input
 
