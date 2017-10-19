@@ -208,6 +208,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Laravel Modules: https://github.com/caffeinated/modules/wiki
 * Value Stores: https://github.com/spatie/valuestore
 
+### Billing
+
+* Chip: https://chipbilling.com/
+
 ### 3rd Party APIs and SDKs
 
 * Twilio: https://github.com/aloha/laravel-twilio
