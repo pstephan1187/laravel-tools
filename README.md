@@ -314,3 +314,4 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ## Miscellaneous
 
 * Cheatsheet: http://learninglaravel.net/cheatsheet/#
+* Froala Bootstrap design components: https://www.froala.com/design-blocks
