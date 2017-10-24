@@ -119,6 +119,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * DebugBar: https://github.com/barryvdh/laravel-debugbar
 * Clockwork: https://github.com/itsgoingd/clockwork
 * Decomposer: https://github.com/lubusIN/laravel-decomposer
+* Clockwork: https://underground.works/clockwork/
 
 ### Application Bootstrapping
 
