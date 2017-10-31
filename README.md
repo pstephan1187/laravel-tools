@@ -288,6 +288,10 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Britecharts: http://eventbrite.github.io/britecharts/
 * Chart Generation: https://github.com/ConsoleTVs/Charts
 
+### Animation
+
+* Sequence.js: https://www.sequencejs.com/
+
 ### WYSIWYG
 
 * ProseMirror: http://prosemirror.net/
