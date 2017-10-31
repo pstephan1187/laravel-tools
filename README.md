@@ -307,6 +307,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Magical Layouts: https://github.com/David-Desmaisons/Vue.Isotope
 * Portal: https://linusborg.github.io/portal-vue/#/
 * Style Guide: https://github.com/vue-styleguidist/vue-styleguidist
+* Date Picker: http://vcalendar.netlify.com/
 
 ### Frameworks
 
