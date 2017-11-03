@@ -134,6 +134,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Laracogs: https://laracogs.com/
 * Laravel Backpack: https://laravel-backpack.readme.io/docs
 * Voyager: https://laravelvoyager.com/
+* System Inc. Admin: https://github.com/systeminc/laravel-admin
 
 ### Social Networks
 
