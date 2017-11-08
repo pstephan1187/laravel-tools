@@ -114,6 +114,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Debugging
 
+* Testing Dashboard: https://github.com/antonioribeiro/ci
 * Log Viewer: https://github.com/rap2hpoutre/laravel-log-viewer
 * Query Viewer: https://github.com/fitztrev/query-tracer
 * DebugBar: https://github.com/barryvdh/laravel-debugbar
