@@ -120,6 +120,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Clockwork: https://github.com/itsgoingd/clockwork
 * Decomposer: https://github.com/lubusIN/laravel-decomposer
 * Clockwork: https://underground.works/clockwork/
+* Command line Error Handling: https://github.com/nunomaduro/collision
 
 ### Application Bootstrapping
 
