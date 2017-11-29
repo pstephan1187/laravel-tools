@@ -63,6 +63,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Database/Models
 
+* Binary UUIDs: https://github.com/spatie/laravel-binary-uuid
 * Repositories: https://github.com/rinvex/repository
 * Eloquence: https://github.com/kirkbushell/eloquence
 * Sluggable: https://github.com/cviebrock/eloquent-sluggable
