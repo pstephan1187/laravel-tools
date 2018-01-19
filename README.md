@@ -21,6 +21,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ## Notable Blog Posts
 
+* Top Ten Laravel Packages: https://tutsforweb.com/top-10-packages-for-extending-laravel/
 * User Input Sanitation: https://asked.io/laravel-validaton--all-your-base-are-belong-to-us
 * Don't use Illuminate\Support in framework agnostic packages: http://mattallan.org/2016/dont-use-illuminate-support/
 * Getting started with PHP streams: http://mattallan.org/2015/getting-started-with-php-streams/
