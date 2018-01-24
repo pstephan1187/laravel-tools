@@ -215,6 +215,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Database Snapshots: https://murze.be/2017/03/laravel-package-quickly-dump-load-database/
 * Laravel Modules: https://github.com/caffeinated/modules/wiki
 * Value Stores: https://github.com/spatie/valuestore
+* Contries, etc: https://github.com/antonioribeiro/countries
 
 ### Billing
 
