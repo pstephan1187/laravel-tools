@@ -322,6 +322,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Style Guide: https://github.com/vue-styleguidist/vue-styleguidist
 * Date Picker: http://vcalendar.netlify.com/
 * Weex - Cross platform native mobile development in Vue: https://weex.apache.org/
+* Laravel Enso datatable: https://github.com/laravel-enso/vuedatatable
 
 ### Frameworks
 
