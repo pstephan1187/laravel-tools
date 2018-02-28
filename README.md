@@ -329,6 +329,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Frameworks
 
 * Vuetify (VueJS Material Design): https://vuetifyjs.com/
+* Vuesax: https://lusaxweb.github.io/vuesax/
 
 ## Miscellaneous
 
