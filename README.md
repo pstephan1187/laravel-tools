@@ -267,6 +267,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Flarepoint CRM: https://github.com/Bottelet/Flarepoint-crm
 * Ribbbon Project Management System: http://ribbbon.com/
 * Atlantis CMS: http://www.atlantis-cms.com/
+* Photon CMS: https://photoncms.com/
 
 ### As A Package
 * Orchid Platform: https://github.com/TheOrchid/Platform
