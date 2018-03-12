@@ -293,6 +293,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Binding Keyboard Shortcuts: https://craig.is/killing/mice
 * JS implementation of collections: https://github.com/ecrmnn/collect.js
 * API Testing: https://reqres.in/
+* Driver (an element highlighting library): http://kamranahmed.info/driver
 
 ### File Uploaders
 * Uppy file uploader: https://uppy.io/
