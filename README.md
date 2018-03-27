@@ -331,6 +331,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Weex - Cross platform native mobile development in Vue: https://weex.apache.org/
 * Laravel Enso datatable: https://github.com/laravel-enso/vuedatatable
 * Modals: https://www.npmjs.com/package/vue-js-modal
+* Save State: https://github.com/spatie/vue-save-state
 
 ### Frameworks
 
