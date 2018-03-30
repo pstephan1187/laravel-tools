@@ -141,6 +141,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Voyager: https://laravelvoyager.com/
 * System Inc. Admin: https://github.com/systeminc/laravel-admin
 * Orchid: https://orchid.software/
+* AdminPanel: https://github.com/viralsolani/laravel-adminpanel
 
 ### Social Networks
 
