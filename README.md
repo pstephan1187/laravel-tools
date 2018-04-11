@@ -316,7 +316,6 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Vue.js Tools
 
-* Unit Testing: https://github.com/wrseward/vue-unit
 * Material design components for Vue.js: http://josephuspaye.github.io/keen-ui/
 * iView UI: https://www.iviewui.com
 * Multi-select component: https://vue-multiselect.js.org/
@@ -333,6 +332,12 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Laravel Enso datatable: https://github.com/laravel-enso/vuedatatable
 * Modals: https://www.npmjs.com/package/vue-js-modal
 * Save State: https://github.com/spatie/vue-save-state
+
+### Frontend Testing
+
+* Unit Testing: https://github.com/wrseward/vue-unit
+* Jest: https://facebook.github.io/jest/
+* End-to-end Testing: https://www.cypress.io/
 
 ### Frameworks
 
