@@ -349,3 +349,4 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 * Cheatsheet: http://learninglaravel.net/cheatsheet/#
 * Froala Bootstrap design components: https://www.froala.com/design-blocks
+* Loading Spinners: http://epic-spinners.epicmax.co/#/
