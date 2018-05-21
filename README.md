@@ -333,6 +333,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Laravel Enso datatable: https://github.com/laravel-enso/vuedatatable
 * Modals: https://www.npmjs.com/package/vue-js-modal
 * Save State: https://github.com/spatie/vue-save-state
+* Vue Router User Roles: https://github.com/anthonygore/vue-router-user-roles
 
 ### Frontend Testing
 
