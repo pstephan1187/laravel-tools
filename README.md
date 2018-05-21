@@ -53,6 +53,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 ### Users
 
 * Email Verification: https://github.com/edvinaskrucas/laravel-user-email-verification
+* Email Verification: https://github.com/beyondcode/laravel-confirm-email
 * Team Associations and Invites: https://github.com/mpociot/teamwork
 * Inviting: https://github.com/DraperStudio/Laravel-Inviteable
 * Inviting: https://github.com/clarkeash/doorman
