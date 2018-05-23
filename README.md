@@ -339,6 +339,11 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Vue Router User Roles: https://github.com/anthonygore/vue-router-user-roles
 * Template Interpolation: https://alligator.io/vuejs/v-runtime-template/
 
+### Static Site Generators
+
+* Saber: https://github.com/egoist/saber.js
+* Vuepress: http://vuepress.vuejs.org/
+
 ### Frontend Testing
 
 * Unit Testing: https://github.com/wrseward/vue-unit
