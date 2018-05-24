@@ -186,6 +186,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Mailthief: https://github.com/tightenco/mailthief
 * Parallel Unit Tests: https://github.com/brianium/paratest
 * Factory Stories (advanced model factories): https://github.com/jeffochoa/factory-stories
+* Visual Regression Testing: https://github.com/beyondcode/laravel-visual-diff
 
 ### Optimization
 
