@@ -190,6 +190,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 
 ### Optimization
 
+* Full Page Caching: https://github.com/JosephSilber/page-cache
 * Minification: https://github.com/GrahamCampbell/Laravel-HTMLMin
 * CDN: https://github.com/Vinelab/cdn
 * HTTP2 Server Push: https://github.com/JacobBennett/laravel-HTTP2ServerPush
