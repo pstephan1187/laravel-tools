@@ -341,6 +341,7 @@ A collection of plugins, packages, CMSes, etc, that can be used with Laravel tha
 * Save State: https://github.com/spatie/vue-save-state
 * Vue Router User Roles: https://github.com/anthonygore/vue-router-user-roles
 * Template Interpolation: https://alligator.io/vuejs/v-runtime-template/
+* Reusable Transitions: https://github.com/BinarCode/vue2-transitions
 
 ### Static Site Generators
 
